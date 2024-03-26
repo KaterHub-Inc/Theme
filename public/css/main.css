@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
-@import url('https://commandcrafterhd.github.io/DiscordDarkNeon/css/usertags.css');
+@import url('https://KaterHub-Inc.github.io/Theme/public/css/usertags.css');
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
 
 :root, .theme-light {
@@ -120,7 +120,7 @@ body *, .userPopout-3XzG_A * {
 .wordmarkWindows-2dq6rw::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://KaterHub-Inc.github.io/Theme/svg/title.svg");
+  -webkit-mask-image: url("https://KaterHub-Inc.github.io/Theme/public/svg/title.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
