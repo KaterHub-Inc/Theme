@@ -1,9 +1,9 @@
 /* --== Author tag ==-- */
-[data-author-id="137259132305539072"] .headerText-2z4IhQ::after,
-[data-user-id="137259132305539072"] .nameAndDecorators-3ERwy2::after {
+[data-author-id="1093061434600075364"] .headerText-2z4IhQ::after,
+[data-user-id="1093061434600075364"] .nameAndDecorators-3ERwy2::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://commandcrafterhd.github.io/DiscordDarkNeon/svg/crayon.svg");
+  -webkit-mask-image: url("https://KaterHub-Inc.github.io/Theme/public/svg/snowflake.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
@@ -13,10 +13,10 @@
   margin-left: 5px;
 }
 
-[data-user-id="137259132305539072"] .headerTagDiscriminatorNoNickname-dfcvHa::after {
+[data-user-id="1093061434600075364"] .headerTagDiscriminatorNoNickname-dfcvHa::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://commandcrafterhd.github.io/DiscordDarkNeon/svg/crayon.svg");
+  -webkit-mask-image: url("https://KaterHub-Inc.github.io/Theme/public/svg/");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
@@ -32,7 +32,7 @@
 [data-user-id="360790467224403969"] .nameAndDecorators-3ERwy2::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://commandcrafterhd.github.io/DiscordDarkNeon/svg/magnifying_glass_icon.svg");
+  -webkit-mask-image: url("https://KaterHub-Inc.github.io/Theme/public/svg/");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
@@ -45,7 +45,7 @@
 [data-user-id="360790467224403969"] .headerTagDiscriminatorNoNickname-dfcvHa::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://commandcrafterhd.github.io/DiscordDarkNeon/svg/magnifying_glass_icon.svg");
+  -webkit-mask-image: url("https://KaterHub-Inc.github.io/Theme/public/svg/");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
@@ -74,7 +74,7 @@
 [data-user-id="314436637465772033"] .headerTagDiscriminatorNoNickname-dfcvHa::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://commandcrafterhd.github.io/DiscordDarkNeon/svg/cat.svg");
+  -webkit-mask-image: url("https://KaterHub-Inc.github.io/Theme/public/svg/");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
